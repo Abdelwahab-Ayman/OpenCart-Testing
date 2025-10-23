@@ -1,1 +1,10 @@
+# TEAM MEMBERS & RESPONSIBILITIES
 
+| Team Member | Methodology | Work Tasks |
+| :--- | :--- | :--- |
+| **Abdewahab Ayman** | Store Page, Login and Logout | • Currency choice<br>• Options for "Contact," "My Account," "Wish List," "Shopping Cart," "Checkout," and "Item"<br>• Clickable company logo on the top left<br>• Search product feature<br>• Organized by category<br>• Show all features<br>• "Show more/Show less" after product description<br>• Well-organized menu<br>• Ability to input E-Mail address<br>• Instruction text on top<br>• Back and continue options |
+| **Ahmed Dandrawy** | Search Product Compare | • Organized Search bar<br>• Allows comparing specifications, features, and prices of multiple products<br>• Should have back and Show more/Show less options<br>• Add to cart and remove options |
+| **Alaa** | Other Features | • Order History<br>• Download Page<br>• Contact Us Page<br>• Menu Option<br>• Footer Option |
+| **Moemen** | Other Features | • Add To Cart<br>• Wish List<br>• Shopping Cart<br>• Currencies<br>• Checkout page<br>• My Account Page |
+| **Mahmoud Helmy** | Login and Logout Store | • Well-organized menu<br>• Ability to choose currency<br>• Options for "Contact," "My Account," "Wish List," "Shopping Cart," "Checkout," and "Item"<br>• Forgot the password link<br>• Should have a back option<br>• More product options<br>• Clickable products<br>• Clickable cart sign-on product view<br>• "Wish list" and "compare" options<br>• Navigation to OpenCart Homepage<br>• Functional page numbers and next/previous buttons<br>• The price displayed on products<br>• Scrollbar on products |
+| **Nesma Elmasry** | Register Product Detail Page | • Well-organized menu<br>• Ability to input "First Name," "Last Name," "E-Mail," "Telephone," "Password," etc. to create a new account<br>• Should have a back option<br>• Product image with alternate views<br>• Product details: code, availability, price<br>• Cart functionality: select quantity, add to cart, wish list, compare<br>• Rating/Sharing: rate the product, and share on social media<br>• Description and review tabs |
