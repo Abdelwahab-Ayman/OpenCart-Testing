@@ -42,9 +42,15 @@ This testing initiative covers the complete OpenCart e-commerce workflow includi
 
 ##### 📁 Repository Structure
 opencart-testing/
+
 ├── manual testing/
+
 ├── test-cases/
+
 ├── test-reports/
+
 ├── documentation/
+
 ├── bug-reports/
+
 └── resources/
