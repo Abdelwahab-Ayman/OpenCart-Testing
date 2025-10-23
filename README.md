@@ -1,3 +1,4 @@
+![DEPI logo](https://github.com/Abdelwahab-Ayman/OpenCart-Testing/blob/main/Resources/media/1719028749377.jpg)
 #### OpenCart E-commerce Testing Project
 
 ##### Project Overview
