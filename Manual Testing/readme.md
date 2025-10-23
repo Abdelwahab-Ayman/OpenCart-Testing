@@ -1,4 +1,4 @@
-# TEAM MEMBERS & RESPONSIBILITIES
+#### TEAM MEMBERS & RESPONSIBILITIES
 
 | Team Member | Methodology | Work Tasks |
 | :--- | :--- | :--- |
