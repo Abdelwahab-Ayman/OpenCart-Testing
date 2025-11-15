@@ -1,0 +1,15 @@
+﻿Key;Summary;Test Type;Status;Status
+AEA-29;API 13: PUT METHOD To Update User Account;Manual;Done;FAILED
+AEA-27;API 1: Get All Products List;Manual;Done;PASSED
+AEA-31;API 14: GET user account detail by email;Manual;Done;PASSED
+AEA-34;API 2: POST To All Products List;Manual;Done;PASSED
+AEA-36;API 4: PUT To All Brands List;Manual;Done;PASSED
+AEA-39;API 11: POST To CreateRegister User Account;Manual;Done;PASSED
+AEA-41;API: 5 POST To Search Product;Manual;Done;PASSED
+AEA-44;API 7: POST To Verify Login with valid details;Manual;Done;PASSED
+AEA-46;API 8: POST To Verify Login without email parameter;Manual;Done;PASSED
+AEA-48;API 9: DELETE To Verify Login;Manual;Done;PASSED
+AEA-50;API 10: POST To Verify Login with invalid details;Manual;Done;PASSED
+AEA-33;API 3:Get All Brand List;Manual;Done;TO DO
+AEA-38;API 12: DELETE METHOD To Delete User Account;Manual;Done;TO DO
+AEA-43;API 6: POST To Search Product without search_product parameter;Manual;Done;TO DO
