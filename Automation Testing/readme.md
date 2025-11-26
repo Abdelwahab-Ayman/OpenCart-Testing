@@ -1,7 +1,6 @@
-# OpenCart Automation Project Schedule
 
-## 🗓️ Project Assignments
-## 👤 @Alaa  
+#### 🗓️ Project Assignments
+#### 👤 @Alaa  
 **Task:** Login and Logout Automation
 
 **Details:**
@@ -16,7 +15,7 @@
 - Page Object Model structure
 **Tech Stack:** Selenium Java, TestNG, Page Factory
 
-### **👤 @moemen **
+#### **👤 @moemen **
 **Task:** Search Functionality Automation
 
 **Details:**
@@ -28,7 +27,7 @@
 - Advanced search filters
 **Tech Stack:** Selenium Java, TestNG, Data Providers
 
-## 👤 @Momen
+#### 👤 @Momen
 **Task:** Register
 
 **Details:**
@@ -40,7 +39,7 @@
 - Cross-browser compatibility
 **Tech Stack:** Selenium ,
 
-### **👤 @Ahmed Dandrawy **
+#### **👤 @Ahmed Dandrawy **
 **Task:** User Registration Automation
 
 **Details:**
@@ -53,7 +52,7 @@
 - GDPR/compliance checkboxes
 **Tech Stack:** Selenium Java, TestNG, Data-Driven Testing
 
-## 👤 @abdelwahab
+#### 👤 @abdelwahab
 **Task:** Wishlist
 
 **Details:**
@@ -64,7 +63,7 @@
 - Remove from wishlist
 - Wishlist persistence
 **Tech Stack:** Selenium Actions, TestNG Assertions
-### **Project Structure**
+#### **Project Structure**
 ```
 src/
 ├── main/java/com/opencart/
@@ -78,16 +77,11 @@ src/
     └── testng.xml
 ```
 
-### **Key Automation Components**
+#### **Key Automation Components**
 1. **Page Object Model** - Each page as separate class
 2. **TestNG** - For test execution and reporting
 3. **Data-Driven Testing** - Excel/JSON test data
 4. **Maven** - Dependency management
 5. **Extent Reports** - Detailed test reporting
 
-### **Weekly Deliverables**
-- **Week 1:** Basic framework + Login/Logout tests
-- **Week 2:** Search + Registration functionality
-- **Week 3:** Complete e-commerce workflow tests
 
-Would you like me to elaborate on any specific part of this automation schedule or add more technical details about the implementation?
