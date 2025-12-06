@@ -17,7 +17,6 @@ src/
 #### **Key Automation Components**
 1. **Page Object Model** - Each page as separate class
 2. **TestNG** - For test execution and reporting
-3. **Data-Driven Testing** - Excel/JSON test data
 4. **Maven** - Dependency management
 5. **Extent Reports** - Detailed test reporting
 
